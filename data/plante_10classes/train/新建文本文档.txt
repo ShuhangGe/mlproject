@@ -1,2 +1,0 @@
-0-4  toxic
-5-9   nontoxic
